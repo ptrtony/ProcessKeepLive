@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="self_package">
+        <item>com.amber.launcher</item>
+        <item>mobi.infolife.ezweather</item>
+        <item>com.amberweather.</item>
+    </string-array>
+</resources>
